@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **[SELF DEVELOPING PROJECT]**
 - 🌱 I’m currently learning **[WEB DEVELOPMENT]**
 - 💬 Ask me about **[HTML,C,C+,C++,PYTHON]**
-- 📫 How to reach me: **[Your Email or LinkedIn Link]**
+- 📫 How to reach me: **[maddivenir@gmail.com]**
 
 ---
 
